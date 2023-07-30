@@ -1,0 +1,14 @@
+.button {
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  border-radius: 5px;
+}
+
+.clicked {
+  background-color: #db1c48;
+}
+
+.list-items {
+  list-style: none;
+  list-style-type: none;
+}
